@@ -1,0 +1,2 @@
+# Original git commit that have synced here. https://github.com/twitter/twitter-korean-text
+311dcf42c4219c0744f6048de65262fbbf450090

@@ -22,13 +22,13 @@ And then, you should put some environment variables like this.
 ```
 # To make current directory to GOPATH
 export GOPATH=$PWD
-export GOPATH=$GOPATH:$PWD/src/gitlab.com/acidd15/twitter-korean-text-go
+export GOPATH=$GOPATH:$PWD/src/github.com/acidd15/twitter-korean-text-go
 
 # For pcre library header
 export CGO_CFLAGS=-I/usr/local/include
 
 # Dictionary resource
-export KRGO_DIC_RSRC=$PWD/src/gitlab.com/acidd15/twitter-korean-text-go/src/tktg/resources/
+export KRGO_DIC_RSRC=$PWD/src/github.com/acidd15/twitter-korean-text-go/src/tktg/resources/
 ```
 
 Once you have completed preceding instructions then see the test files for your information.
